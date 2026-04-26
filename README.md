@@ -9,3 +9,6 @@
 # more coming soon 
 10 more
 
+# news 
+the file replit.com is not the full version 
+in the future replit.com will be full  project html
