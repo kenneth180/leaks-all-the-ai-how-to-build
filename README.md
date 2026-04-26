@@ -14,4 +14,4 @@ the file replit.com is not the full version
 in the future replit.com will be full  project html
 
  # 67 lovable 
- in the file lovable.dev the code is 6.7 k
+ in the file lovable.dev the code is 6.7 KB
